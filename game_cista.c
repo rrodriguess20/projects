@@ -34,7 +34,7 @@ int main()
      a vida me deu, e que apesar da distância, estão sendo muito impor-
      tantes na minha jornada com a computação.
 
-     Aos queridos: Kevin Marques (kevinmarquessp) && Idinaldo Rocha (Idinaldo).
+     Aos queridos: Kevin Marques (kevinmarquesp) && Idinaldo Rocha (Idinaldo).
 
      Obrigada a quem leu essa documentação até aqui!
      Forte abraço,
